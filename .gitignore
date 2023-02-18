@@ -2,4 +2,5 @@ tmp/
 index.html_old
 .DS_Store
 
-NeuroStartUp.png_backup
+*_backup
+*_old
