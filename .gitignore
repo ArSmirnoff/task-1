@@ -1,6 +1,6 @@
 tmp/
-index.html_old
+
 .DS_Store
 
-*_backup
-*_old
+*.png_backup
+*.html_old
